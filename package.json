@@ -1,0 +1,21 @@
+{
+  "name": "berry-themes",
+  "displayName": "Berry Themes",
+  "description": "Berry Themes",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Berry Themes Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Berry Themes Dark-color-theme.json"
+      }
+    ]
+  }
+}
